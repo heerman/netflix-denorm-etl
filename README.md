@@ -1,4 +1,4 @@
-# netflix-streams-denorm
+# netflix-denorm-etl
 
 A production-scale ETL pipeline with Netflix streams data *(simulated)*
 
