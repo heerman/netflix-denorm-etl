@@ -1,4 +1,4 @@
-# Netflix Data Simulated
+# Netflix Data Simulation
 *github.com/heerman*
 
 
